@@ -1,2 +1,5 @@
 # SQL
 This Project is to learn SQL
+
+Topics in SQL:
+CRUD
